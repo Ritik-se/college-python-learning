@@ -1,6 +1,6 @@
 # #introduction to tuples
 # # list is converted in to tuple and tuple also c
-# # onverted into
+ # onverted into
 # # tuple are same as list but it is immutable
 # #creating a tuple ()    
 # tup=()
